@@ -201,4 +201,5 @@ input::-moz-focus-inner {
 .container {
   display: flex;
   border: 10px solid goldenrod;
+  height: 100vh;
 }
